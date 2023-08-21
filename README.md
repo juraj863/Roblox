@@ -1,5 +1,5 @@
 # Roblox
 - Scripting
-    - Tool
-        - .Activated
-            - :Connect
+- Tool
+    - .Activated
+        - :Connect
