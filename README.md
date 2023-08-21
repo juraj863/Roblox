@@ -1,7 +1,7 @@
 # Roblox
 - Scripting
 - Tool
-    - .Activated
+    - [Tool Functions]
         - :Connect
 
 
